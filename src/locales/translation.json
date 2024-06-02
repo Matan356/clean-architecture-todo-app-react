@@ -1,0 +1,21 @@
+{
+    "barItumim": "בר איטומים",
+    "reset": "אתחול",
+    "close": "סגור",
+    "title": "כותרת",
+    "increase text size": "הגדל טקסט",
+    "decrease text size": "הקטן טקסט",
+    "increase text spacing": "הגדל רווח טקסט",
+    "decrease text spacing": "הקטן רווח טקסט",
+    "increase line height": "הגדל אורך טקסט",
+    "decrease line height": "הקטן אורך טקסט",
+    "invert colors": "הפוך צבעים",
+    "gray hues": "גוונים אפורים",
+    "underline links": "קישורים עם קו נטוי",
+    "big cursor": "לחצן גדול",
+    "readingGuide": "קו עזר קריאה",
+    "textToSpeech": "טקסט לדיבור",
+    "speechToText": "דיבור לטקסט",
+    "disableAnimations": "השבת אנימציות",
+    "accessibility": "נגישות"
+}
